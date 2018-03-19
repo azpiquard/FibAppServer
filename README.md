@@ -11,17 +11,20 @@ This project is implemented with Java Language. In order to build and run the pr
 openjdk version "1.8.0_161"
 OpenJDK Runtime Environment (build 1.8.0_161-b14)
 OpenJDK 64-Bit Server VM (build 25.161-b14, mixed mode)
+
 [ec2-user@ip-172-31-31-44 fibonacci-rest]$
 
 #check maven version:
 
 [ec2-user@ip-172-31-31-44 fibonacci-rest]$ mvn -version
+
 Apache Maven 3.5.3 (3383c37e1f9e9b3bc3df50A50c29c8aff9f295297; 2018-02-24T19:49:05Z)
 maven home: /usr/local/apache-maven
 Java version: 1.8.0_161, vendor: Oracle Corporation
 Java home: /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.161-0.b14.36.amzn1.x86_64/jre
 Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "4.9.81-35.56.amzn1.x86_64", arch: "amd64", family: "unix"
+
 [ec2-user@ip-172-31-31-44 fibonacci-rest]$
 
 If you are new to Java development, please install Java  SDK and Maven according to the following guide.
